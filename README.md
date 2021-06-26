@@ -16,7 +16,7 @@ Information about the experimntal subject(me):
 
 About the second attempt:
 
-* Start: 2021-06-28 (planned)
+* Start: 2021-06-28
 * Time goal: 1000 hours (Including the 30.5 from the first attempt)
 
 I will count the hours I spend with Spanish organized into the following categories: 
