@@ -9,8 +9,9 @@ The other files in the repositry are a documentation of my second attempt.
 
 Information about the experimntal subject(me):
 * Native language: Hungarian
-* Second Languages: English, Japanese, (In addition I know a handful of German words but I'm completely incompetent)
+* Second Languages: English, Japanese, (In addition I had German classes for 4 years, but I have gained practically zero competence, although I remember a bit about the grammar and a handful of words)
 * Age at the start of the second attempt:21
+* Location during both attempts: Hungary
 
 
 About the second attempt:
