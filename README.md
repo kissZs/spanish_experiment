@@ -31,7 +31,7 @@ I will count the hours I spend with Spanish organized into the following categor
 I will occaisonally make journal entries, and I will rate at least one piece of content every week, on the following scale:
 * 0	I don't understand anything
 * 5	I recognize a word here and there, but I can't understand any sentence other than maybe the rare 2-3 words long one every-now and then
-* 10	I  regularly recognize words and, rearly, I can even understand simple sentences that are a few words long
+* 10	I  regularly recognize words and, rarely, I can even understand simple sentences that are a few words long
 * 15	I am familiar with most words that I encounter, but I can only understand short and simple sentences regurarly, and I only ocasionally understand more complex sentences
 * 20	I understand a good chunk of the sentences I encounter, but I also don't understand a good chunck of them. Understanding a sentence is 'not the norm' Most of my ability to follow the text still comes from other means (e.g. guess from the visuals)
 * 25	I understand the majority of sentences I see, but it feels like I still don't understand the imprtant ones, I can follow the text to some extent, but I loose track very often and regularly
