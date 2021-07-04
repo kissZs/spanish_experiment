@@ -17,7 +17,7 @@ Information about the experimntal subject(me):
 About the second attempt:
 
 * Start: 2021-06-28
-* Time goal: 1000 hours (Including the 30.5 from the first attempt)
+* Goal: 1000 hours spent on Spanish (Including the 30.5 from the first attempt)
 
 I will count the hours I spend with Spanish organized into the following categories: 
 * Audio-only 
@@ -40,5 +40,8 @@ I will occaisonally make journal entries, and I will rate at least one piece of 
 * 40	I can follow pretty much all of what is talked about and understand almost all sentences with occasional exceptions, but some of the nuance is still lost on me. I still encounter a lot of words I don't know
 * 45	I understand virtually all senteces and never loose track, but occasional unknown words still show up, and a bit of of the nuance is still lost, not quite puting me at the level of a native speaker
 * 50	My understanding is on the level of a native speaker
+
+
+When giving a rating, I will also write down what type of content it is, it's original language, and if I've not seen it before(New), if I've seen it before in Spanish(Rewatch)or in a language I understand (Familiar) 
 
 I plan on posting weekly updates on reddit.
