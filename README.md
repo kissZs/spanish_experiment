@@ -46,7 +46,7 @@ When giving a rating, I will also write down what type of content it is, it's or
 
 I plan on posting weekly updates on reddit.
 
-###Motivation
+### Motivation
 
 First let me say that I'm not trying to conclude anything about Krashen's theories, for two main reasons:
 
@@ -70,7 +70,7 @@ There only (one long-term study)[https://espace.library.uq.edu.au/view/UQ:9b4936
 I don't think he outright said whether or not he abstained from familiar shows, but after this random selection phase he watched things like Shrek, so I'm not sure how much familiar content he watched, if any. He completely avoided reading to the point that he turned his head away when signs and stuff appeared on the screen.
 He sat a B1 exam after 1300 hours and his combined score was a few points short of the passing score. (the fact that he got the best score on the reading section, despite never having read French should give you an idea of the credibility of that test)
 
-He did learn thousands of words, so he successfully disproved the myth that 'You can't learn a language just by watching TV unless you are younger 7-10' but his results are still clearly not acceptable.
+He did learn thousands of words, so he successfully disproved the myth that 'You can't learn a language just by watching TV unless you are younger than 7-10' but his results are still clearly not acceptable.
 
 I think that with the addition of reading and choosing content in a sensible way, there is a realistic chance that I will get acceptable results and a realistic chance that I won't, so I believe that this is the optimal place to start searching for the 'bar'.
 
