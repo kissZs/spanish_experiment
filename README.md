@@ -45,3 +45,33 @@ I will occaisonally make journal entries, and I will rate at least one piece of 
 When giving a rating, I will also write down what type of content it is, it's original language, and if I've not seen it before(New), if I've seen it before in Spanish(Rewatch)or in a language I understand (Familiar) 
 
 I plan on posting weekly updates on reddit.
+
+###Motivation
+
+First let me say that I'm not trying to conclude anything about Krashen's theories, for two main reasons:
+
+* It's not defined well enough, it's not even clear whether all of the utterances need to be comprehensible in the input for it to be considered comprehensible 
+or if every comprehensible utterance is considered CI on its own. Depending on how you interpret that you could twist my experiment to be about both CI and incomprehensible input.
+
+* It's well known that CI methods like TPRS work and outperform more traditional methods like grammar translation and the audio lingual method in the first 100ish hours [See chapter 6 of this](http://www.sdkrashen.com/content/books/principles_and_practice.pdf)
+So I will avoid content that is specifically made to be comprehensible for learners. What linguists are unsure about is whether or not this would hold for the entire acquisition process.
+
+What I am trying to do is try to determine how 'pure' can we get with immersion methods and still get acceptable results.
+
+Acceptable results being achieving a B2/C1 in the same time frame as people do at the FSI, which is a 1000 hours for Spanish, i.e. when we can't tell the difference between the two results using qualitative descriptions.
+If we knew how low the 'bar' was for getting acceptable results, then that would mean that other methods of immersing with media that are above the 'bar' would also produce acceptable results, meaning that you could choose based on other things, like enjoyment.
+For example consider the following question:
+
+"I spend 90% of my time immersing and 10% with textbook and look up a word about every 10 minutes. Some said it would be faster if I spent that 10% with anki instead of a textbook and doubled my number of lookups. What should I do?"
+
+Answer: "You have no way of knowing which one would be faster becuase we can't even tell the difference between more extreme methods, but a guy did it with no lookups what so-ever (Assuming my experiment goes well) so both options are guaranteed to get you acceptable results. So you should just do the one that's easier for you." 
+
+There only (one long-term study)[https://espace.library.uq.edu.au/view/UQ:9b49365] that tested learning from media alone. He tried learning French by watching TV shows that were at first randomly selected from a list of tv shows on Wikipedia, 
+I don't think he outright said whether or not he abstained from familiar shows, but after this random selection phase he watched things like Shrek, so I'm not sure how much familiar content he watched, if any. He completely avoided reading to the point that he turned his head away when signs and stuff appeared on the screen.
+He sat a B1 exam after 1300 hours and his combined score was a few points short of the passing score. (the fact that he got the best score on the reading section, despite never having read French should give you an idea of the credibility of that test)
+
+He did learn thousands of words, so he successfully disproved the myth that 'You can't learn a language just by watching TV unless you are younger 7-10' but his results are still clearly not acceptable.
+
+I think that with the addition of reading and choosing content in a sensible way, there is a realistic chance that I will get acceptable results and a realistic chance that I won't, so I believe that this is the optimal place to start searching for the 'bar'.
+
+If I don't get acceptable results I will try again with minimal lookups, though I probably won't have time for it any time soon.
