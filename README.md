@@ -46,7 +46,17 @@ When giving a rating, I will also write down what type of content it is, it's or
 
 I plan on posting weekly updates on reddit.
 
-### Motivation
+### About the files (not important to read)
+
+The Journal folder contains the weekly journal files named journal_week[number].txt They are delimited by lines containing only a ; and empty entries are denoted by a !
+
+The Time Data folder contains Excel files that contain when I started and ended all my sessions, they are as I exported them from Clockify except that I removed some unnecessary columns. I don't think you can open these straight from github, you have to download them.
+
+The others are pretty self-explanatory I think. 
+
+
+
+### Motivation (not important to read)
 
 First let me say that I'm not trying to conclude anything about Krashen's theories, for two main reasons:
 
