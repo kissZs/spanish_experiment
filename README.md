@@ -39,7 +39,7 @@ I will occaisonally make journal entries, and I will rate at least one piece of 
 * 35	I can follow most of what is being talked about, but I loose track occasionally, and sentences I don't understand show up regularly, but most of the time aren't too much of a problem because of context. A lot of the nuance is lot on me.(jokes, cultural and implicit stuff)
 * 40	I can follow pretty much all of what is talked about and understand almost all sentences with occasional exceptions, but some of the nuance is still lost on me. I still encounter a lot of words I don't know
 * 45	I understand virtually all sentences and never loose track, but occasional unknown words still show up, and a bit of of the nuance is still lost, not quite putting me at the level of a native speaker
-* 50	My understanding is on the level of a native speaker
+* 50	I believe I understand every single word and all of the nuance
 
 When giving a rating, I will also write down what type of content it is, it's original language, and if I've not seen it before(New), if I've seen it before in Spanish(Rewatch)or in a language I understand (Familiar) 
 
