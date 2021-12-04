@@ -1,0 +1,87 @@
+As opposed to my other comprehension scores, these are given based on the first 15 minutes of the pieces of content, instead of the 30 minutes that could start from anywhere.
+To write this I had to expose myself to 7 and a half hours of Spanish over the course of 4 days. 
+
+
+When reading, I can follow most everything that I come across, though the range of my comprehension can vary widely.
+
+The easiest is when the story is accompanied by visuals. The following pieces of content are the first ones that appeared in the 'populares' tab of a site dedicated 
+to Aisan comic books translated to Spanish: 
+The Death Mage that doesn’t want a fourth time: 47
+Shinjiteita Nakama Tachi Ni Dungeon Okuchi De Korosare Kaketa ga Gift...(The full title is too long): 47
+Me Convertí En La Esposa De MI Protagonista Masculino: 46
+
+Technical texts are also surprisingly easy. I chose 3 branches that are pertinent to my interests and within each of these I selected a topic that I hadn't studied before,
+but plan to: differential geometry from mathematics, the Python programing language from computer programing and thermodynamics from physics, so I Googled for
+'geometria diferencial pdf,' 'python pdf español' and 'termodinamica pdf español' respectively and clicked the first pdf that came up. I skipped forewords and such.
+INTRODUCCION A LA GEOMETRÍA DIFERENCIAL - Luis Javier HERNANDEZ PARICIO: 48
+Aprenda a Pensar Como un Programador con Python: 47
+Termodinámica - Y. A Çengel, M. A. Boles: 44
+
+Fiction is a lot harder. It is often the case that my comprehension is fairly low, but even then I usually understand enough to be able to follow the story. The following three books
+are the 3 bestsellers of 2021 according to planetadelibros.com which is was the first list that came up on Google after I searched 'libros más vendidos 2021'
+La Bestia - Carmen Mola: 33
+Últimos días en Berlín - Paloma Sánchez-Garnica: 37
+La cuenta atras para el verano - La Vecina Rubia: 38
+The next book was chosen because it has reputation of being a hard one, though I've already read the first half of the first chapter, so I continued from there.
+Cien años de soledad - Gabriel García Márquez: 33
+The four books above were originally written in Spanish but translated works are usually easier, even the next one which I picked because I thought it would be difficult,
+resulted relatively easy. (I had already read it's first 2 chapters so I started rating from chapter 3)
+The Count of Monte Cristo: 39
+
+
+
+
+
+
+
+My listening is undoubtedly worse, I can follow most things but the things that I can't are definitely not rare. 
+I have problems with understanding different accents, with slang and with low clarity audio. Also, I find that my comprehension drops 
+significantly when using speakers instead of headphones, so I must note that the following scores were given using speakers.
+
+The easiest type of audiovisual content is perhaps Youtube videos. To select 'random' videos I used an account with empty history, I chose 3 topics: science travel
+and videogames and searched for 'datos cientificos curiosos,' 'vlog de viaje' and'datos curiosos de videojuegos' to get results about these topics. The following
+videos were the first results from channels I wasn't familiar with. 
+(10 Datos Científicos que no podrás creer)[https://youtu.be/JOF2CGOK08g]: 39 
+(VLOG un día de viaje *en la Ciudad de México* Comida y turismo)[https://youtu.be/6F5jiKYMl2c]: 40 
+(50 CURIOSIDADES de los VIDEOJUEGOS)[https://youtu.be/MFXkk9ygkzk]: 36
+Though in some cases when people's speech has a relatively low volume and clarity compared to others, as in some interviews for example, I may not be able to follow
+what they are saying as in the following video:
+(Este Jugador Tiene Un Survival Que No Podrás Creer!)[https://youtu.be/Itwh5d8IhKU]: 29
+
+When it comes to movies and TV series there is something about the audio that makes it a lot less clear, though I don't know what it is. This problem is a lot less
+significant with dubbed content and I can follow almost all of them for this reason, even if it's at a low level of comprehension. The following shows were the
+first ones to come up on a newly made Netflix Mexico profile that were both dubbed and new to me.
+The Crown: 35
+You: 41
+Suits: 34
+
+Original Spanish TV shows are even harder.  I googled 'best telenovelas on netflix' and selected the first three that I hadn't seen yet.
+Hache: 35
+Ingobernable: 38
+La Reina del Flow: 24
+I am most familiar with European and Mexican Spanish and other accents can completely throw me off, as it is shown by the above series. They were made
+in Spain, Mexico and Colombia respectively.
+
+Audio only content can be very hard and I often can't follow them. I googled 'mejores podcasts' and tried the top 3 from the first list that came up:
+Deforme Semanal Ideal Total - Furia: 28
+Guerra 3 - E01 La noche siria: 27
+Solaris - E18 Algoritmos creativos: 42
+
+
+
+
+
+
+
+
+My speaking is even worse. I think I can definitely communicate to some extent, but speaking takes great mental effort on my part, my delivery is not very
+fluid and I make tons of mistakes both in terms of pronunciation and grammar. Mistakes that even I notice immediately after I say them. 
+
+I intended to make two recordings. The first is my attempt to explain Einstein's derivations of the Lorentz transformations 
+which I learned about in Spanish. The problem is that I didn't prepare nearly enough, I did take some notes, which you can see at the end of the video, 
+but I almost only wrote down equations and I had some gaps in the logic which made the recording pretty bad, I even had to stop the recording to quickly
+check one detail in Einsten's paper. You can watch the recording here: https://youtu.be/vMumkKBTmHM
+
+For the second recording I intended to join a Minecraft server with an active Discord so I did but as soon as I joined I was flooded by explanations in the server
+about how it works so I just said hi an than sat there reading the rules silently for 5 minutes. After that I discovered that joining a group of 4 teenagers who
+are joking around is something that is completely out of my reach, so I gave up on this recording.
