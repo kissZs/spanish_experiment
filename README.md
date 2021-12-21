@@ -6,4 +6,4 @@ The Journal folder contains the journal files named journal_week[number].txt tha
 
 The Time Data folder contains Excel files that contain when I started and ended all my sessions, they are as I exported them from Clockify except that I removed some unnecessary columns. I don't think you can open these straight from github, you have to download them.
 
-See the Comprehension scores.xlsx for a more detailed, written version of Figure 2.
+See Comprehension scores.xlsx for a more detailed, written version of Figure 2.
